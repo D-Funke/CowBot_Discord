@@ -1,0 +1,28 @@
+<StartPhrase>
+Hi I'm Cowsay. Ask me for more quotes.
+<EndPhrase>
+<StartPhrase>
+```
+  ________________________________________
+ / The man who sets out to carry a cat by \
+| its tail learns something that will      |
+| always be useful and which never will    |
+| grow dim or doubtful.                    |
+ \ -- Mark Twain                          /
+  ----------------------------------------
+           \  ^__^
+            \ (OO)\________
+              (__)\        )\/\
+                  ||-----w |
+                  ||      ||
+```
+<EndPhrase>
+<StartPhrase>
+```
+           \  ^__^
+            \ (OO)\________
+              (__)\        )\/\
+                  ||-----w |
+                  ||      ||
+```
+<EndPhrase>
